@@ -1,0 +1,6 @@
+title: "Neutron Transport Guide"
+description: "Computational methods for reactor physics simulation"
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
